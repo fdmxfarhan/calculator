@@ -1,2 +1,0 @@
-# calculator
-React native calculator
